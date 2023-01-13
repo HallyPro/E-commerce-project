@@ -1,4 +1,4 @@
-# E-commerce-project-
+# E-commerce-project
 Basic nodejs store API project 
 
 //node-modules... type in terminal
