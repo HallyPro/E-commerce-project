@@ -1,0 +1,371 @@
+[
+    {
+    "productName": "Puffer jacket with hood",
+    "colors": ["White", "Green", "Black"],
+    "price": 249,
+    "size": ["S", "M", "L", "XL", "XXL"],
+    "section": "Jackets and coats",
+    "category": "Man"
+        },
+    {
+        "productName": "Comfort coat",
+        "colors": ["Camel", "Grey", "Black"],
+        "price": 249,
+        "size": ["XS","S", "M", "L", "XL", "XXL"],
+        "section": "Jackets and coats",
+        "category": "Man"
+        },
+    {
+       "productName": "Lightweight quitted jacket",
+        "colors": ["White", "Red", "Black"],
+        "price": 139,
+        "size": ["XS","S", "M", "L", "XL"],
+        "section": "Jackets and coats",
+        "category": "Man"
+        },
+    {
+        "productName": "Contrast thraead cotton overshirt",
+        "colors": ["Black", "Beige"],
+        "price": 139,
+        "size": ["XS","S", "M", "L", "XL"],
+        "section": "Overshirts",
+        "category": "Man"
+        },
+    {
+        "productName": "Striped overshirt",
+        "colors": ["Cream"],
+        "price": 139,
+        "size": ["XS","S", "M", "L", "XL"],
+        "section": "Overshirts",
+        "category": "Man"
+        },
+    {
+        "productName": "Corduroy overshirt with pockets",
+        "colors": ["Grey", "Cream"],
+        "price": 70,
+        "size": ["XS","S"],
+        "section": "Overshirts",
+        "category": "Man"
+        },
+    {
+        "productName": "Boxy fit hoodie",
+        "colors": ["Khaki", "Grey", "Cream"],
+        "price": 125,
+        "size": ["XS","S", "M", "L", "XL"],
+        "section": "Sweatshirts and hoodies",
+        "category": "Man"
+        },
+    {
+        "productName": "Round neck sweatshirt",
+        "colors": ["Cream"],
+        "price": 129,
+        "size": ["XS","S", "M", "L", "XL"],
+        "section": "Sweatshirts and hoodies",
+        "category": "Man"
+        },
+    {
+        "productName": "Zip-up hoodie",
+        "colors": ["Stone", "Black", "White"],
+        "price": 125,
+        "size": ["XS","S", "M", "L", "XL"],
+        "section": "Sweatshirts and hoodies",
+        "category": "Man"
+        },
+    {
+        "productName": "Mesh Knit Vest",
+        "colors": ["Cream", "Black"],
+        "price": 100,
+        "size": ["XS","S", "M", "L"],
+        "section": "Vests",
+        "category": "Man"
+        },
+    {
+        "productName": "Knitted V-neck vest",
+        "colors": ["Cream", "Black"],
+        "price": 50,
+        "size": ["XS","S", "L", "XL"],
+        "section": "Vests",
+        "category": "Man"
+        },
+    {
+        "productName": "Puffer gilet",
+        "colors": ["Cream", "Black"],
+        "price": 139,
+        "size": ["S", "M", "L", "XL"],
+        "section": "Vests",
+        "category": "Man"
+        },
+    {
+        "productName": "Oversized short sleeve T-shirt",
+        "colors": ["Black", "White", "Grey", "Dark Orange"],
+        "price": 50,
+        "size": ["XS","S","M", "L", "XL", "XXL"],
+        "section": "T-shirts",
+        "category": "Man"
+        },
+    {
+        "productName": "Oversized long sleeve T-shirt with print",
+        "colors": ["Black", "White"],
+        "price": 100,
+        "size": ["XS","S","M", "L", "XL"],
+        "section": "T-shirts",
+        "category": "Man"
+        },
+    {
+        "productName": "Boxy-fit short sleeve",
+        "colors": ["Black"],
+        "price": 80,
+        "size": ["XS","S","M", "L"],
+        "section": "T-shirts",
+        "category": "Man"
+        },
+    {
+        "productName": "Cargo jeans",
+        "colors": ["Blue", "Cream", "Grey"],
+        "price": 80,
+        "size": ["34","36","38", "40", "42", "44", "46"],
+        "section": "Jeans",
+        "category": "Man"
+        },
+    {
+        "productName": "Baggy jeans",
+        "colors": ["Black", "Blue", "Light blue"],
+        "price": 139,
+        "size": ["34","36","38", "40", "42", "44", "46"],
+        "section": "Jeans",
+        "category": "Man"
+        },
+    {
+        "productName": "Straight-fit vintage jeans",
+        "colors": ["Black", "Light blue"],
+        "price": 125,
+        "size": ["34","36","38", "40", "42", "44", "46"],
+        "section": "Jeans",
+        "category": "Man"
+        },
+    {
+        "productName": "Tailored wide-fit jogger-style",
+        "colors": ["Black", "Cream"],
+        "price": 139,
+        "size": ["XS", "S", "M", "L", "XL"],
+        "section": "Trousers",
+        "category": "Man"
+        },
+    {
+        "productName": "Plush cargo joggers",
+        "colors": ["Black", "Cream"],
+        "price": 109,
+        "size": ["XS", "S", "M", "L", "XL"],
+        "section": "Trousers",
+        "category": "Man"
+        },
+    {
+        "productName": "Ripped denim Bermuda shorts",
+        "colors": ["Light blue"],
+        "price": 109,
+        "size": ["36", "38", "40", "42", "44", "46"],
+        "section": "Shorts",
+        "category": "Man"
+        },
+    {
+        "productName": "Cargo Bermuda shorts",
+        "colors": ["Black", "Cream"],
+        "price": 109,
+        "size": ["XS", "S", "M", "L", "XL"],
+        "section": "Shorts",
+        "category": "Man"
+        },
+    {
+        "productName": "Drop-shoulder long coat",
+        "colors": ["Grey", "Black"],
+        "price": 249,
+        "size": ["XS", "S", "M", "L"],
+        "section": "Coats",
+        "category": "woman"
+        },
+    {
+        "productName": "Faux leather double-faced biker jacket",
+        "colors": ["Chocolate"],
+        "price": 299,
+        "size": ["XS", "S", "L"],
+        "section": "Coats",
+        "category": "woman"
+        },
+    {
+        "productName": "Wool trench coat",
+        "colors": ["Black", "Beige"],
+        "price": 300,
+        "size": ["M", "L"],
+        "section": "Coats",
+        "category": "woman"
+        },
+    {
+        "productName": "Cropped crossover blazer",
+        "colors": ["Beige", "Black"],
+        "price": 100,
+        "size": ["XS", "S", "M", "L"],
+        "section": "Blazers",
+        "category": "woman"
+        },
+    {
+        "productName": "Long tailored waistcoat",
+        "colors": ["Camel", "Blue", "Black"],
+        "price": 30,
+        "size": ["XS", "S", "M", "L"],
+        "section": "Blazers",
+        "category": "woman"
+        },
+    {
+        "productName": "Oversized zip-up hoodie",
+        "colors": ["Czarny", "Szary", "Zielony"],
+        "price": 109,
+        "size": ["XS", "S", "M", "L", "XL"],
+        "section": "Sweatshirts and hoodies",
+        "category": "woman"
+        },
+    {
+        "productName": "Oversized round neck sweatshirt",
+        "colors": ["Grey", "Black", "Red", "White", "Khaki"],
+        "price": 70,
+        "size": ["XS", "S", "M", "L", "XL"],
+        "section": "Sweatshirts and hoodies",
+        "category": "woman"
+        },
+    {
+        "productName": "Long Knit polo collar dress",
+        "colors": ["Sand", "Black", "Red"],
+        "price": 129,
+        "size": ["XS", "S", "M", "L"],
+        "section": "Knitwear",
+        "category": "woman"
+        },
+    {
+        "productName": "V-neck sweater",
+        "colors": ["Grey", "Blue", "White"],
+        "price": 125,
+        "size": ["XS", "S", "M", "L"],
+        "section": "Knitwear",
+        "category": "woman"
+        },
+    {
+        "productName": "Satin camisole mini dress",
+        "colors": ["Blue", "Black", "Cream"],
+        "price": 40,
+        "size": ["S", "M", "L", "XL"],
+        "section": "Dresses",
+        "category": "woman"
+        },
+    {
+        "productName": "Lace corset dress",
+        "colors": ["Pink", "Black"],
+        "price": 60,
+        "size": ["XS", "S", "M", "L"],
+        "section": "Dresses",
+        "category": "woman"
+        },
+    {
+        "productName": "Midl dress with fitted straps",
+        "colors": ["Grey", "Black", "Blue"],
+        "price": 100,
+        "size": ["XS", "S", "M", "L"],
+        "section": "Dresses",
+        "category": "woman"
+        },
+    {
+        "productName": "Long sleeve cropped fitted satin shirt",
+        "colors": ["Cream", "Red", "White", "Black"],
+        "price": 100,
+        "size": ["XS","S", "M", "L", "XL"],
+        "section": "Shirts and blouses",
+        "category": "woman"
+        },
+    {
+        "productName": "Faux leather corset-style shirt",
+        "colors": ["Black"],
+        "price": 125,
+        "size": ["XS","S", "M", "L", "XL"],
+        "section": "Shirts and blouses",
+        "category": "woman"
+        },
+    {
+        "productName": "Long sleeve ruffled blouse with tie",
+        "colors": ["Cream", "Black"],
+        "price": 40,
+        "size": ["XS", "M", "L"],
+        "section": "Shirts and blouses",
+        "category": "woman"
+        },
+    {
+        "productName": "Rustic fabric wide-leg trousers",
+        "colors": ["Cream", "Beige"],
+        "price": 60,
+        "size": ["32", "34", "36", "38", "40", "42", "44"],
+        "section": "Trousers",
+        "category": "woman"
+        },
+    {
+        "productName": "Fitted flared trousers with split hems",
+        "colors": ["Black", "Red"],
+        "price": 60,
+        "size": ["32", "34", "36", "38", "40"],
+        "section": "Trousers",
+        "category": "woman"
+        },
+    {
+        "productName": "Faux leather cargo joggers",
+        "colors": ["Black"],
+        "price": 125,
+        "size": ["XS", "S", "M", "L", "XL"],
+        "section": "Trousers",
+        "category": "woman"
+        },
+    {
+        "productName": "Skinny high waist jeans",
+        "colors": ["White", "Light blue", "Blue", "Black", "Grey"],
+        "price": 100,
+        "size": ["32", "34", "36", "38", "40", "42", "44"],
+        "section": "Jeans",
+        "category": "woman"
+        },
+    {
+        "productName": "Straight cargo jeans",
+        "colors": ["White", "Light blue", "Blue", "Black"],
+        "price": 100,
+        "size": ["32", "34", "36", "38", "40", "42", "44"],
+        "section": "Jeans",
+        "category": "woman"
+        },
+    {
+        "productName": "Ripped wide-leg'90s jeans",
+        "colors": ["White", "Light blue", "Blue", "Black"],
+        "price": 125,
+        "size": ["32", "34", "36", "38", "40", "42", "44"],
+        "section": "Jeans",
+        "category": "woman"
+        },
+    {
+        "productName": "Ruffle satin mini skirt",
+        "colors": ["Black", "Zebra"],
+        "price": 30,
+        "size": ["XS", "S", "L"],
+        "section": "Skirts",
+        "category": "woman"
+        },
+    {
+        "productName": "parachute cargo midl skirt",
+        "colors": ["Grey", "Khaki"],
+        "price": 60,
+        "size": ["XS", "S", "L"],
+        "section": "Skirts",
+        "category": "woman"
+        },
+    {
+        "productName": "Denim carpenter mini skirt",
+        "colors": ["Blue", "Black", "Beige"],
+        "price": 30,
+        "size": ["32", "34", "36", "38", "40", "42", "44"],
+        "section": "Skirts",
+        "category": "woman"
+        }
+
+]
