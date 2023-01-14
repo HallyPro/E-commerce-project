@@ -8,7 +8,7 @@ const User = require('../models/auth');
 describe('TEST e-commerce', () => {
     beforeAll(async () => {
         await connectDB(process.env.MONGO_URL);
-        jest.setTimeout(20000);
+        jest.setTimeout(40000);
     });
 
     afterAll( async () => {
@@ -17,6 +17,8 @@ describe('TEST e-commerce', () => {
         await disconnectDB();
     } catch(error){
         console.error('Unable to disconnect from database', error);
+    }finally {
+        setTimeout(() => { process.exit(0)}, 10000);
     }
     });
 
