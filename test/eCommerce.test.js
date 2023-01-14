@@ -12,13 +12,14 @@ describe('TEST e-commerce', () => {
     });
 
     afterAll( async () => {
-       try{ const testData = await User.findOne().sort('-_id').limit(1);
-        await User.deleteOne(testData);
-        await disconnectDB();
+       try{
+             const testData = await User.findOne().sort('-_id').limit(1);
+             await User.deleteOne(testData);
+             await disconnectDB(); 
     } catch(error){
         console.error('Unable to disconnect from database', error);
     }finally {
-        setTimeout(() => { process.exit(0)}, 10000);
+           setTimeout(process.exit(0), 10000);
     }
     });
 
