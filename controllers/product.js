@@ -15,8 +15,7 @@ const getAllProducts = async (req, res) => {
     if(category) {
         queryObject.category = category; 
     }
-
-    console.log(queryObject);
+    
     let result = Product.find(queryObject);
 
     if(filter) {

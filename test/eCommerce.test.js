@@ -19,7 +19,7 @@ describe('TEST e-commerce', () => {
     } catch(error){
         console.error('Unable to disconnect from database', error);
     }finally {
-           setTimeout(process.exit(0), 10000);
+           setTimeout(() => {process.exit(0)}, 20000);
     }
     });
 
